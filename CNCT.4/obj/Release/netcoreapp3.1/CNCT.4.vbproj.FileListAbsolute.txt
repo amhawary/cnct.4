@@ -1,0 +1,11 @@
+C:\Users\Hawary\Desktop\netcoreapp3.1\CNCT.4.exe
+C:\Users\Hawary\Desktop\netcoreapp3.1\CNCT.4.deps.json
+C:\Users\Hawary\Desktop\netcoreapp3.1\CNCT.4.runtimeconfig.json
+C:\Users\Hawary\Desktop\netcoreapp3.1\CNCT.4.runtimeconfig.dev.json
+C:\Users\Hawary\Desktop\netcoreapp3.1\CNCT.4.dll
+C:\Users\Hawary\Desktop\netcoreapp3.1\CNCT.4.pdb
+C:\Users\Hawary\source\repos\CNCT.4\CNCT.4\obj\Release\netcoreapp3.1\CNCT.4.vbprojAssemblyReference.cache
+C:\Users\Hawary\source\repos\CNCT.4\CNCT.4\obj\Release\netcoreapp3.1\CNCT.4.AssemblyInfoInputs.cache
+C:\Users\Hawary\source\repos\CNCT.4\CNCT.4\obj\Release\netcoreapp3.1\CNCT.4.AssemblyInfo.vb
+C:\Users\Hawary\source\repos\CNCT.4\CNCT.4\obj\Release\netcoreapp3.1\CNCT.4.dll
+C:\Users\Hawary\source\repos\CNCT.4\CNCT.4\obj\Release\netcoreapp3.1\CNCT.4.pdb
